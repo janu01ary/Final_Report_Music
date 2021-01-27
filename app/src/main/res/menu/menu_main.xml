@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/addMusic"
+        android:title="음악 추가" />
+    <item
+        android:id="@+id/searchTitle"
+        android:title="곡 제목 검색" />
+    <item
+        android:id="@+id/developer"
+        android:title="개발자 소개" />
+    <item
+        android:id="@+id/exit"
+        android:title="앱 종료" />
+</menu>
